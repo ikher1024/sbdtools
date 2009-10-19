@@ -14,9 +14,9 @@ Aspectos que fortifica:
 
 *`JavaScript`*:
 
-    * Impide que JavaScript modifique el aspecto de Firefox para ocultar la barra de navegación
+    * Impide que `JavaScript` modifique el aspecto de Firefox para ocultar la barra de navegación
 
-    * Deshabilita capacidades de JavaScript potencialmente inseguras
+    * Deshabilita capacidades de `JavaScript` potencialmente inseguras
 
 *Privacidad*:
 
