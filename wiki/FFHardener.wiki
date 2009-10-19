@@ -12,7 +12,7 @@ Aspectos que fortifica:
 
     * Fuerza el uso de algoritmos seguros (longitud de clave superior a 64 / 128)
 
-*'JavaScript'*:
+*`JavaScript`*:
 
     * Impide que JavaScript modifique el aspecto de Firefox para ocultar la barra de navegación
 
