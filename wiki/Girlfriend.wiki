@@ -9,8 +9,6 @@ Girlfriend es un programa que permite bloquear un PC cuando no detecta la presen
 dicnalmente actuaua mododo de 'sonar' registrando toda la actividad blueoth que vea el dispositivo, creando un fichero de log con los in / out detectados
 
 
-= Details
-
 *) Manual de uso (*
 
 Una vez descargado el programa, debes identificar la direccionica del despositositivo que hará de maestro. Una vez obtenida la direccion fisica debes incluirla dentro del fichero config.txe que debe estar en el mismo directorio que el ejecutable.
