@@ -1,4 +1,5 @@
 #summary FFHardener
+#labels Featured
 
 = Introduction =
 
