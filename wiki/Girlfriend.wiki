@@ -1,6 +1,8 @@
 #summary Girlfriend 0.1.
 #labels Featured
 
+http://code.google.com/images/code_sm.png
+
 = Introduction =
 
 Girlfriend es un programa que permite bloquear un PC cuando no detecta la presencia vía Bluetooth de un dispositivo 'maestro' (típicamente un móvil)
