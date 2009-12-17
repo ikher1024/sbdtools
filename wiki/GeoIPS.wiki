@@ -1,5 +1,3 @@
-#summary One-sentence summary of this page.
-
 = Introducción =
 
 Geo IPS es un software que permite definir reglas de acceso a puertos TCP/UDP en base a la procedencia geográfica de las conexiones.
