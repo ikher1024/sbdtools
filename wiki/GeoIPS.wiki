@@ -5,9 +5,8 @@ Geo IPS es un software que permite definir reglas de acceso a puertos TCP/UDP en
 Ejemplos típicos de uso puede ser filtrar el acceso al servicio SSH a conexiones cuyo origen sea un Pais o Ciudad.
 
 
-= Details =
+= Plataforma =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Geo IPS debería funcionar en cualquier Linux con una versión de Perl moderna y teóricamente en sistemas *BSD 
+
+= Instalación =
