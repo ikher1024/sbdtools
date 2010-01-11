@@ -49,8 +49,30 @@ Y de aquí http://geolite.maxmind.com/download/geoip/api/c/ descargamos las libr
 
 # make
 
+# make install
+
+Ahora, descargamos el modulo Perl desde aquí http://geolite.maxmind.com/download/geoip/api/perl/
+
+# wget http://geolite.maxmind.com/download/geoip/api/perl/Geo-IP-1.38.tar.gz
+
+# tar -xvzf Geo-IP-1.38.tar.gz
+
+# cd Geo-IP-1.38
+
+# perl Makefile.PL
+
+# make
+
+# make test
+
+# make install
+
+*3) Instalación de GeoIPS*
+
+
+
+
+
 
 
  
-
-
