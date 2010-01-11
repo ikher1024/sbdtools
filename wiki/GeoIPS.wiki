@@ -31,9 +31,7 @@ cpan> install XML::Simple
 
 *2) Instalación de Geo::IP*
 
-Nos situamos en http://www.maxmind.com/app/perl
-
-Y de aquí http://geolite.maxmind.com/download/geoip/api/c/ descargamos las librerías en C
+De aquí http://geolite.maxmind.com/download/geoip/api/c/ descargamos las librerías en C
 
 # wget http://geolite.maxmind.com/download/geoip/api/c/GeoIP-1.4.6.tar.gz
 
