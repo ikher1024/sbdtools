@@ -23,6 +23,8 @@ Pasos de instalación hechos en una Fedora Core 11
 
 cpan> install YAML
 
+cpan> install DBI
+
 `cpan> install Net::PcapUtils`
 
 `cpan> install NetPacket::Ethernet`
