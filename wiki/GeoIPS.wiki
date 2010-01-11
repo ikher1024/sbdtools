@@ -23,11 +23,11 @@ Pasos de instalación hechos en una Fedora Core 11
 
 cpan> install YAML
 
-cpan> install Net:\:PcapUtils
+`cpan> install Net::PcapUtils`
 
-cpan> install NetPacket:\:Ethernet
+`cpan> install NetPacket::Ethernet`
 
-cpan> install XML:\:Simple
+`cpan> install XML::Simple`
 
 *2) Instalación de Geo::IP*
 
