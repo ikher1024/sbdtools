@@ -25,6 +25,8 @@ cpan> install YAML
 
 cpan> install DBI
 
+`cpan> install DBD::SQLite`
+
 `cpan> install Net::PcapUtils`
 
 `cpan> install NetPacket::Ethernet`
