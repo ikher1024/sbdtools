@@ -21,8 +21,36 @@ Pasos de instalación hechos en una Fedora Core 11
 
 (una vez dentro de la shell CPAN)
 
+cpan> install YAML
+
 cpan> install Net::PcapUtils
 
 cpan> install NetPacket::Ethernet
 
 cpan> install XML::Simple
+
+*2) Instalación de Geo::IP*
+
+Nos situamos en http://www.maxmind.com/app/perl
+
+Y de aquí http://geolite.maxmind.com/download/geoip/api/c/ descargamos las librerías en C
+
+# wget http://geolite.maxmind.com/download/geoip/api/c/GeoIP-1.4.6.tar.gz
+
+# tar -xvzf GeoIP-1.4.6.tar.gz
+
+# cd GeoIP-1.4.6
+
+(En este punto, tal vez debas instalar las librerias Zlib)
+
+# yum install zlib-devel
+
+# ./configure
+
+# make
+
+
+
+ 
+
+
