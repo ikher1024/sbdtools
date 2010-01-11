@@ -67,7 +67,21 @@ Ahora, descargamos el modulo Perl desde aquí http://geolite.maxmind.com/downloa
 
 *3) Instalación de GeoIPS*
 
+Descargamos el software
 
+# wget http://sbdtools.googlecode.com/files/GeoIPS1.0.tgz
+
+# tar -xvzf GeoIPS1.0.tgz
+
+# cd GeoIPS/
+
+Descargamos la base de datos de Geolocalización de Max Mind 
+
+wget http://geolite.maxmind.com/download/geoip/database/GeoLiteCity.dat.gz
+
+# gzip -d GeoLiteCity.dat.gz
+
+Y con esto, estaría completado el proceso de instalación 
 
 
 
