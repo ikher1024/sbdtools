@@ -10,3 +10,19 @@ Ejemplos típicos de uso puede ser filtrar el acceso al servicio SSH a conexione
 Geo IPS debería funcionar en cualquier Linux con una versión de Perl moderna y teóricamente en sistemas *BSD 
 
 = Instalación =
+
+Pasos de instalación hechos en una Fedora Core 11
+
+1) Instalación de los módulos Perl necesarios
+
+** Cormo root
+
+#perl -MCPAN -e shell
+
+(una vez dentro de la shell CPAN)
+
+cpan[1]> install Net::PcapUtils
+
+cpan[1]> install NetPacket::Ethernet
+
+cpan[1]> install XML::Simple
