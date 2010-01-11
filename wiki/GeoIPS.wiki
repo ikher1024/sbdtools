@@ -79,7 +79,7 @@ Descargamos la base de datos de Geolocalización de Max Mind
 
 wget http://geolite.maxmind.com/download/geoip/database/GeoLiteCity.dat.gz
 
-# gzip -d GeoLiteCity.dat.gz
+`# gzip -d GeoLiteCity.dat.gz`
 
 Y con esto, estaría completado el proceso de instalación 
 
