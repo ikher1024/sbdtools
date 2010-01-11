@@ -13,7 +13,7 @@ Geo IPS debería funcionar en cualquier Linux con una versión de Perl moderna y
 
 Pasos de instalación hechos en una Fedora Core 11
 
-1) Instalación de los módulos Perl necesarios
+*1) Instalación de los módulos Perl necesarios*
 
 ** Cormo root
 
@@ -21,8 +21,8 @@ Pasos de instalación hechos en una Fedora Core 11
 
 (una vez dentro de la shell CPAN)
 
-cpan[1]> install Net::PcapUtils
+cpan> install Net::PcapUtils
 
-cpan[1]> install NetPacket::Ethernet
+cpan> install NetPacket::Ethernet
 
-cpan[1]> install XML::Simple
+cpan> install XML::Simple
